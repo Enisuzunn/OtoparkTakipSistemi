@@ -1,1 +1,1 @@
-Bu otomasyonda otoparkta bi karışıklık olmaması için yapılmıştır. Otoparka gelen araçların, araç sürüclerinin bilgileri alınııp otoparkta ne kadar süre geçirildiği öğrenilip ona göre tutarı söyleyen bi programdır.
+Bu otomasyonda otoparkta bi karışıklık olmaması için yapılmıştır. Otoparka gelen araçların, araç sürücülerinin bilgileri alınııp otoparkta ne kadar süre geçirildiği öğrenilip ona göre tutarı söyleyen bi programdır.
